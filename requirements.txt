@@ -18,7 +18,7 @@ python-telegram-bot==11.1.0
 requests==2.19.1
 six==1.11.0
 ujson==1.35
-urllib3==1.23
+urllib3==1.24.2
 win-inet-pton==1.0.1
 wincertstore==0.2
 wrapt==1.10.11
